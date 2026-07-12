@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -40,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
