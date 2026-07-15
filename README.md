@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0710-random-pick-with-blacklist](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
+| [0930-binary-subarrays-with-sum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sliding Window
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0710-random-pick-with-blacklist](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
+| [0930-binary-subarrays-with-sum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Randomized
 |  |
 | ------- |
