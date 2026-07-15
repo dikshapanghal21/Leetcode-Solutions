@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sliding Window
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,11 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0710-random-pick-with-blacklist](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0710-random-pick-with-blacklist](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Randomized
 |  |
 | ------- |
@@ -165,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
