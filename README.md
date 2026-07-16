@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0710-random-pick-with-blacklist](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,8 +174,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
