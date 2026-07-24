@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0202-happy-number](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
