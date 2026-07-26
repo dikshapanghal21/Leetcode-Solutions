@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
