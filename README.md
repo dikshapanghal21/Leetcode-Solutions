@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0710-random-pick-with-blacklist](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
