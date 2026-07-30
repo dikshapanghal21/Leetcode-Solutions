@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -306,5 +307,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
