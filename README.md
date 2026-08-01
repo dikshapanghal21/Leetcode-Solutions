@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0710-random-pick-with-blacklist](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
+| [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0710-random-pick-with-blacklist](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
+| [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0930-binary-subarrays-with-sum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1208-get-equal-substrings-within-budget](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1392-longest-happy-prefix](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1392-longest-happy-prefix) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0710-random-pick-with-blacklist](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
+| [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0881-boats-to-save-people](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1478-allocate-mailboxes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1478-allocate-mailboxes) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -321,9 +326,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1034-coloring-a-border](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1034-coloring-a-border) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1034-coloring-a-border](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1034-coloring-a-border) |
 <!---LeetCode Topics End-->
