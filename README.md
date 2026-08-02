@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0930-binary-subarrays-with-sum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1034-coloring-a-border](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1034-coloring-a-border) |
+| [1036-escape-a-large-maze](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1036-escape-a-large-maze) |
 | [1207-unique-number-of-occurrences](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
 | [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0930-binary-subarrays-with-sum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1036-escape-a-large-maze](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1036-escape-a-large-maze) |
 | [1207-unique-number-of-occurrences](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -328,9 +330,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1034-coloring-a-border](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1034-coloring-a-border) |
+| [1036-escape-a-large-maze](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1036-escape-a-large-maze) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1034-coloring-a-border](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1034-coloring-a-border) |
+| [1036-escape-a-large-maze](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1036-escape-a-large-maze) |
 <!---LeetCode Topics End-->
