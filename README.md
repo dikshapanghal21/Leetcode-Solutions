@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0876-middle-of-the-linked-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
