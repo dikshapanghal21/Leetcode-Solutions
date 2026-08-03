@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
@@ -339,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1034-coloring-a-border](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1036-escape-a-large-maze) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
