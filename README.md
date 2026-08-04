@@ -340,8 +340,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1034-coloring-a-border](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1036-escape-a-large-maze) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2608-shortest-cycle-in-a-graph) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+## Graph Theory
+|  |
+| ------- |
+| [2608-shortest-cycle-in-a-graph](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2608-shortest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
