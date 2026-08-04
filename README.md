@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Graph Theory
 |  |
