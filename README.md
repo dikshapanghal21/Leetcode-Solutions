@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0710-random-pick-with-blacklist](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Graph Theory
