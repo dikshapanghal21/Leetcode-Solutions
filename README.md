@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1478-allocate-mailboxes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1478-allocate-mailboxes) |
 | [1480-running-sum-of-1d-array](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
