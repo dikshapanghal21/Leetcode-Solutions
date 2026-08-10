@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-escape-a-large-maze](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1036-escape-a-large-maze) |
 | [1207-unique-number-of-occurrences](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [2034-stock-price-fluctuation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2034-stock-price-fluctuation) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 ## String
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2034-stock-price-fluctuation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2034-stock-price-fluctuation) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
+| [2034-stock-price-fluctuation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2034-stock-price-fluctuation) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [2034-stock-price-fluctuation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2034-stock-price-fluctuation) |
 ## Trie
 |  |
 | ------- |
@@ -402,4 +406,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+| [2034-stock-price-fluctuation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2034-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
