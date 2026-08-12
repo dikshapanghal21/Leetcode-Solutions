@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3193-count-the-number-of-inversions](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3193-count-the-number-of-inversions) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2034-stock-price-fluctuation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2034-stock-price-fluctuation) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
