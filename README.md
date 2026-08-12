@@ -371,12 +371,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1034-coloring-a-border](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1036-escape-a-large-maze) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1036-escape-a-large-maze) |
@@ -401,16 +403,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Data Stream
 |  |
 | ------- |
