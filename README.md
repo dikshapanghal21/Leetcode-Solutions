@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -368,12 +369,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1034-coloring-a-border](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1034-coloring-a-border) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Data Stream
