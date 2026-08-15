@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-allocate-mailboxes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1478-allocate-mailboxes) |
 | [1480-running-sum-of-1d-array](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1562-find-latest-group-of-size-m](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1562-find-latest-group-of-size-m) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-escape-a-large-maze](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1036-escape-a-large-maze) |
 | [1207-unique-number-of-occurrences](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1562-find-latest-group-of-size-m](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1562-find-latest-group-of-size-m) |
 | [2034-stock-price-fluctuation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2034-stock-price-fluctuation) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0710-random-pick-with-blacklist](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
 | [1208-get-equal-substrings-within-budget](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1562-find-latest-group-of-size-m](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1562-find-latest-group-of-size-m) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
+| [1562-find-latest-group-of-size-m](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1562-find-latest-group-of-size-m) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
