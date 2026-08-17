@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0202-happy-number](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -448,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [2034-stock-price-fluctuation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2034-stock-price-fluctuation) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
