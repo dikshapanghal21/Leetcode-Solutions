@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0407-trapping-rain-water-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0454-4sum-ii) |
 | [0493-reverse-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2034-stock-price-fluctuation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2034-stock-price-fluctuation) |
 ## Monotonic Queue
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0994-rotting-oranges](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1034-coloring-a-border) |
 | [1260-shift-2d-grid](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
