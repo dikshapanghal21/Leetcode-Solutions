@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0514-freedom-trail](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0514-freedom-trail) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [1478-allocate-mailboxes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1478-allocate-mailboxes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [0514-freedom-trail](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0514-freedom-trail) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0514-freedom-trail](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0514-freedom-trail) |
 | [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1034-coloring-a-border](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1034-coloring-a-border) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0514-freedom-trail](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0514-freedom-trail) |
 | [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
