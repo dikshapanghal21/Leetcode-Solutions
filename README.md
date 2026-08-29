@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1036-escape-a-large-maze) |
+| [1169-invalid-transactions](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 | [1207-unique-number-of-occurrences](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0930-binary-subarrays-with-sum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1036-escape-a-large-maze](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1036-escape-a-large-maze) |
+| [1169-invalid-transactions](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 | [1207-unique-number-of-occurrences](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1562-find-latest-group-of-size-m](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1562-find-latest-group-of-size-m) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
+| [1169-invalid-transactions](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 | [1208-get-equal-substrings-within-budget](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1392-longest-happy-prefix](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1392-longest-happy-prefix) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
 | [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0881-boats-to-save-people](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [1169-invalid-transactions](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 | [1478-allocate-mailboxes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1478-allocate-mailboxes) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
