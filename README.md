@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0056-merge-intervals) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
