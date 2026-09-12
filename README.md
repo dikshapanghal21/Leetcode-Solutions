@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [1169-invalid-transactions](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 | [1208-get-equal-substrings-within-budget](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1328-break-a-palindrome](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1328-break-a-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1392-longest-happy-prefix) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0881-boats-to-save-people](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [1328-break-a-palindrome](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1328-break-a-palindrome) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Simulation
 |  |
