@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0087-scramble-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0131-palindrome-partitioning](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0198-house-robber) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0131-palindrome-partitioning](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0290-word-pattern) |
