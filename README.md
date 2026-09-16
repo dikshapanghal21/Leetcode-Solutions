@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0336-palindrome-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0290-word-pattern) |
+| [0336-palindrome-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0389-find-the-difference) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0336-palindrome-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0389-find-the-difference](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0336-palindrome-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0336-palindrome-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 | [1392-longest-happy-prefix](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Backtracking
 |  |
