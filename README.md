@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0721-accounts-merge](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0721-accounts-merge) |
+| [1041-robot-bounded-in-circle](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1169-invalid-transactions](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1169-invalid-transactions) |
 | [1208-get-equal-substrings-within-budget](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1328-break-a-palindrome](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1328-break-a-palindrome) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0710-random-pick-with-blacklist](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
+| [1041-robot-bounded-in-circle](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1137-n-th-tribonacci-number](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1478-allocate-mailboxes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1478-allocate-mailboxes) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [1041-robot-bounded-in-circle](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1260-shift-2d-grid](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1562-find-latest-group-of-size-m](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1562-find-latest-group-of-size-m) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
