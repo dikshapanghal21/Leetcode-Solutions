@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0049-group-anagrams) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
