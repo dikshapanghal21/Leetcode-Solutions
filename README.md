@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0087-scramble-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0087-scramble-string) |
+| [0096-unique-binary-search-trees](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0372-super-pow](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0372-super-pow) |
 | [0523-continuous-subarray-sum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -574,12 +577,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
