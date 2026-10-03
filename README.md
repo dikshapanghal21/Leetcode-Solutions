@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0372-super-pow](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0372-super-pow) |
 | [0523-continuous-subarray-sum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0710-random-pick-with-blacklist](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
 | [1041-robot-bounded-in-circle](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/1041-robot-bounded-in-circle) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bucket Sort
@@ -630,4 +632,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
