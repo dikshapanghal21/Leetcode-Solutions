@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0372-super-pow) |
 | [0493-reverse-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
