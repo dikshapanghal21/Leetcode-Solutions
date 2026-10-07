@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0220-contains-duplicate-iii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0389-find-the-difference) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0493-reverse-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [2034-stock-price-fluctuation](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/2034-stock-price-fluctuation) |
 ## Trie
