@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0367-valid-perfect-square](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0710-random-pick-with-blacklist](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0372-super-pow) |
 | [0523-continuous-subarray-sum](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
