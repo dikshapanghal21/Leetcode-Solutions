@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0318-maximum-product-of-word-lengths](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/dikshapanghal21/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Sorting
